@@ -1,0 +1,15 @@
+{
+  "short_name": "CIS550-27",
+  "name": "CIS 550 - Final Project",
+  "icons": [
+    {
+      "src": "fork.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
